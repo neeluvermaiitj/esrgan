@@ -1,6 +1,6 @@
 # esrgan
 
-reference Paper : ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks
+Reference Paper : ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks
 
 
 ESRGAN (Enhanced-SRGAN) is capable of generating realistic textures during single image super-resolution. This paper shows improvement of three key components of SRGAN –
